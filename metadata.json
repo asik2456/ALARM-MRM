@@ -1,0 +1,6 @@
+{
+  "name": "WakeHero - Smart Alarm & Weather",
+  "description": "Alarmy-style alarm app with math puzzle wake-up missions, custom ringtones, live weather briefings, and dark mode support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
